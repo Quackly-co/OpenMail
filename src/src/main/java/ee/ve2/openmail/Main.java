@@ -1,4 +1,4 @@
-package ee.ve2;
+package ee.ve2.openmail;
 
 public class Main {
     static void main(String[] args) {

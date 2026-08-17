@@ -40,9 +40,11 @@ After clicking **Fork**, select your GitHub account or organization as the desti
 
 ### 2. Build OpenMail
 
-Open the **Actions** Tab in your fork and find *Global*.
+Open the **Actions** Tab in your fork and find **Global Build** and click it.
 
-Then find **Run Workflow** or similar and click it.
+Then find **Run Workflow** and click it. 
+
+Find and click **Run Workflow** again.
 
 ### 4. Run OpenMail
 

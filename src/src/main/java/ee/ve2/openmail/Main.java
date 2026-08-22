@@ -1,7 +1,8 @@
 package ee.ve2.openmail;
 
 public class Main {
-    static void main(String[] args) {
-        System.out.println("OpenMail Example.");
+    public static void main(String[] args) {
+        OpenMailConsole console = OpenMailConsole.create(System.out, System.in);
+        console.run(args);
     }
 }
